@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 👨‍💻 Android Developer with **3+ years experience**
-- 💡 Skilled in **Kotlin, Jetpack Compose, MVVM, Room, Retrofit, ExoPlayer**
+- 💡 Skilled in **Kotlin, Jetpack Compose, XML, MVVM, Room, Retrofit, ExoPlayer, Json reader, File Handling**
 - 🔥 Strong experience with **Media3, caching, AIDL, IPC, OpenCV**
 - 🎯 Passionate about building clean, scalable apps
 
@@ -13,30 +13,26 @@
 
 ## 📂 Featured Projects
 
-### 📱 **Project 1 – Your App Name**
+### 📱 **Project 1 – All in One Bible App**
 Short description about your app.  
 **Tech:** Kotlin, MVVM, Room, Retrofit  
-🔗 **GitHub:** [Link to project](#)
+🔗 **GitHub:** [https://play.google.com/store/apps/details?id=com.skyraan.biblereadingzone](#)
 
 ---
 
-### 🤖 **Project 2 – Your App Name**
+### 🤖 **Project 2 – Quran App**
 What the app does and key features.  
 **Tech:** Kotlin, Firebase, Jetpack Compose  
-🔗 **GitHub:** [Link to project](#)
+🔗 **GitHub:** [https://play.google.com/store/apps/details?id=com.quraanpoint.swahiliquran](#)
 
 ---
 
 ### 🎥 **ExoPlayer Video Cache Converter**
 Reads .dat ExoPlayer cache and converts into .mp4 files.  
 **Tech:** Kotlin, Media3, CacheDataSource  
-🔗 **GitHub:** [Link to project](#)
+
 
 ---
-
-## 🛠️ Tech Stack
-
-**Languages**
 
 ## 📊 GitHub Stats
 <p align="center">
