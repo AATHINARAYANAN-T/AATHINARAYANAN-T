@@ -42,8 +42,8 @@ Reads .dat ExoPlayer cache and converts into .mp4 files.
 
 ## 🔗 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:youremail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aathinarayanan-t-85222b2aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:aathinarayananthangaraj2001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ## Profile views
